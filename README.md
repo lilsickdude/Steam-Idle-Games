@@ -1,7 +1,7 @@
-# Steam-Idle-Games-BAT-
+# Steam-Idle-Games-BAT
 a simple script for idle hours on steam (you need to install idleMaster and log in on your account).
 
-# HOW TO USE:
+# HOW TO USE
 
 1. Download IdleMaster and log in on your steam account.
 2. Download SteamIdleGames and put the bat file in IdleMaster folder.
