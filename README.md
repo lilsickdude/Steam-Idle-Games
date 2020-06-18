@@ -1,4 +1,4 @@
-# Steam-Idle-Games-BAT
+# Steam Idle Games
 Very simple program for idle your games without problems for farming hours on your games.
 
 # LITE VERSION VS IPER LITE VERSION
