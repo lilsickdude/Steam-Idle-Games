@@ -83,3 +83,5 @@ A standalone version, where IdleMaster will be not required.
 
 - Last used ID:
 The program will choose the last 5 (or 10, i don't know) used ID.
+
+For any problems just [make a post here](https://github.com/lilsickdude/Steam-Idle-Games/issues)
