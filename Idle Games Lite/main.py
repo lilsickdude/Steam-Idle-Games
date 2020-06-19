@@ -1,4 +1,4 @@
-# Version 1.1
+# Version 2.0
 
 import os
 import tkinter
@@ -39,10 +39,30 @@ def last():
     print("You are running last idle game")
     os.system("start StartIdling.bat")
 
+def options():
+    #Test
+    print("Options Menu")
+    # Options Menu GUI
+    optionsMenu = Tk()
+    optionsMenu.title('Options')
+    optionsMenu.resizable(width=False, height=False)
+    #TimeTracker
+    TimeTrackerOpt = StringVar()
+    OptTimeCheck= Checkbutton(optionsMenu, text ="TimeTracker", variable=TimeTrackerOpt)
+    OptTimeCheck.pack()
+
+    Button(optionsMenu, text='Accept Changes', command=TimeTracker).pack()
+
+def TimeTracker():
+    # TimeTracker Function
+    print(TimeTrackerOpt)
+
+
     
 
 Button(root, text='Idle!', command=idle).pack(side=LEFT)
 Button(root, text='Exit', command= root.destroy).pack(side= RIGHT)
 Button(root, text='Idle Last Game', command =last).pack(side=BOTTOM)
+Button(root, text='Options', command=options).pack(side=TOP)
 
 root.mainloop()
