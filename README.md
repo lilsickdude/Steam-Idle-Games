@@ -44,7 +44,7 @@ Q: Is IdleMaster required?
 A: Yes, at the moment.
 
 Q: Where can i find an ID Game?
-A: Go to the store of the game that you want to idle and copy the number in the URL, for example i will use this: https://store.steampowered.com/app/822710/Clash_Mutants_Vs_Pirates/
+A: Go to the store of the game that you want to idle and copy the number in the URL, for example [i will use this](https://store.steampowered.com/app/822710/Clash_Mutants_Vs_Pirates/)
 Just copy the number after "/app/", so in this case the ID Game is: "822710"
 
 Q: Can i use a game that is not in my library?
@@ -67,16 +67,16 @@ A: IDK, i raccomend to idle just 1 game at a time and set your profile on "invis
 
 # WHAT NEXT: LITE
 
-- ID Reminder:
+- ID Reminder
 Do you have forgot an ID Game? Don't worry.
 
-- Games Idle Tracker:
+- Time Tracker (in progress..)
 You can track your idling time etc.
 
 - More Icons\etc.
 I know that this program is 
 
-- Standalone Version:
+- Standalone Version
 A standalone version, where IdleMaster will be not required.
 
 # WHAT NEXT: IPER LITE
