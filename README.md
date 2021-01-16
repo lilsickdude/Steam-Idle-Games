@@ -15,13 +15,13 @@ Iper Lite Version:
 # WHAT DO YOU NEED?
 
 For both versions:
-- IdleMaster
-- Windows (32bit or 64bit, it's the same)
+- [IdleMaster](https://github.com/JonasNilson/idle_master_extended)
+- Windows 10 (32bit or 64bit, it's the same. I don't know if it works on Windows 7/8, [just let me know here](https://github.com/lilsickdude/Steam-Idle-Games/issues))
 - Steam
 
 # HOW TO USE LITE VERSION
 
-1. Download IdleMaster and log in on your Steam account.
+1. Download [IdleMaster](https://github.com/JonasNilson/idle_master_extended) and log in on your Steam account.
 2. Download SteamIdleGames and put in IdleMaster directory
 3. Run "SteamIdleGames.exe"
 4. Run Steam (Log in your account)
@@ -31,7 +31,7 @@ For both versions:
 
 # HOW TO USE: IPER LITE VERSION
 
-1. Download IdleMaster and log in on your steam account.
+1. Download [IdleMaster](https://github.com/JonasNilson/idle_master_extended) and log in on your steam account.
 2. Download SteamIdleGames and put the .bat file in IdleMaster folder.
 3. Run the .BAT file
 4. Run Steam (Log in your account)
@@ -41,7 +41,7 @@ For both versions:
 # F.A.Q
 
 Q: Is IdleMaster required?
-A: Yes, at the moment.
+A: Yes, for the moment.
 
 Q: Where can i find an ID Game?
 A: Go to the store of the game that you want to idle and copy the number in the URL, for example [i will use this](https://store.steampowered.com/app/822710/Clash_Mutants_Vs_Pirates/)
